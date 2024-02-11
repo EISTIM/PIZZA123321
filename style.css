@@ -1,0 +1,103 @@
+body{
+    box-sizing: border-box;
+    background-color: blanchedalmond;
+    margin: 0;
+    font-size: 22px;
+}
+.logo{
+    width:120px;
+}
+.header-list{
+    display: flex;
+    list-style: none;
+}
+.header{
+    background-color: rgb(221, 103, 82);
+padding-top: 10px;
+padding-bottom: 10px;
+}
+.header-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.container{
+    margin: 0 auto;
+    width: 1200px;
+    padding: 0 15px;
+}
+.header-link{
+    font-size: 24px;
+    color: white;
+    text-decoration: none;
+    margin-left: 50px;
+}
+.h2{
+    display: flex;
+    justify-content: center;
+   text-decoration-line: 100px;
+}
+.hero-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    
+}
+.hero-img{
+    width: 550px;
+    margin-right: 50px;
+}
+.h2{
+font-size: 48px;
+font-variant: 700px;
+color: rgb(113, 27, 12);
+}
+.hero{
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+.dought{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: rgb(255, 167, 123);
+}
+.dought-cointeiner{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.dought-titl{
+    color: rgb(113, 27, 12);
+    width: 500px;
+}
+.filling{
+    padding-top: 50px;
+    padding-bottom: 50px;
+    background-color: blanchedalmond;
+}
+.filling-container{
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+.filling-title{
+    color: rgb(113, 27, 12);   
+}
+.filihg-img{
+    width: 550px;
+}
+.dough-list{
+list-style: disc;
+margin-left: 50px;
+}
+.footer{
+    background-color:rgb(221, 103, 82);
+    display: flex;
+    justify-content: center;
+}
+.footer-img{
+    width: 75px;
+    margin-left: 1150px;
+}
+
+
